@@ -16,6 +16,8 @@ This repository contains 5 files according to the final assignment of the Gettin
       5. *CodeBook.md* - a document describing the data files, their variables and transformations made by the script.  
   
 ### The *Run_analysis.R* script description  
+For proper functioning of the script, the working directory should be set to the */UCI HAR Dataset* folder obtained upon unzipping the assignment data file *getdata_projectfiles_UCI HAR Dataset.zip*.  
+
 The **input files** are:  
 
 a) the files *x_train.txt* and *x_test.txt* dataset containing the values of the measurements preprocessed by the authors of the study and used as training and testing datasets. For more information about the study, follow this link: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
